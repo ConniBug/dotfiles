@@ -1,5 +1,5 @@
 # dotfiles
 
-pacman -S xorg plasma plasma-wayland-session kde-applications 
-systemctl enable sddm.service
-systemctl enable NetworkManager.service
+pacman -S xorg plasma plasma-wayland-session kde-applications <br>
+systemctl enable sddm.service <br>
+systemctl enable NetworkManager.service <br>
